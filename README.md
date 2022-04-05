@@ -22,7 +22,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ### Course 3: Structuring Machine Learning Projects
 
-  - There are no programming assignments for this course. But this course comes with very interesting case study quizzes (below).
+  - There are no programming assignments for this course. But this course comes with very interesting case study quizzes.
   
 ### Course 4: Convolutional Neural Networks
 
