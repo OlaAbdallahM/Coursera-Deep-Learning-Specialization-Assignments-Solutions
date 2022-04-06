@@ -15,11 +15,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   + *Understand the key parameters in a neural network's architecture.* 
  
  Code:
-  - [Week 2 - Python Basics with Numpy]()
-  - [Week 2 - Logistic Regression with a Neural Network mindset]()
-  - [Week 3 - Planar data classification with one hidden layer]()
-  - [Week 4 - Building your Deep Neural Network: Step by Step]()
-  - [Week 4 - Deep Neural Network for Image Classification: Application]()
+  - [Week 2 - Python Basics with Numpy](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week_2/Python_Basics_with_Numpy.ipynb)
+  - [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week_2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [Week 3 - Planar data classification with one hidden layer](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb)
+  - [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week_4/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week_4/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
  Objectives:  
