@@ -9,6 +9,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ### Course 1: Neural Networks and Deep Learning
  Objectives:
+  
   *+ Understand the major technology trends driving Deep Learning.
   + Be able to build, train and apply fully connected deep neural networks. 
   + Know how to implement efficient (vectorized) neural networks. 
