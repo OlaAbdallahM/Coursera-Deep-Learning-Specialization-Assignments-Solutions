@@ -33,8 +33,8 @@ Code:
   - [Week 1 - Initialization](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week_1/Initialization.ipynb)
   - [Week 1 - Regularization](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week_1/Regularization.ipynb)
   - [Week 1 - Gradient Checking](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week_1/Gradient_Checking.ipynb)
-  - [Week 2 - Optimization Methods]()
-  - [Week 3 - TensorFlow Tutorial]()
+  - [Week 2 - Optimization Methods](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week_2/Optimization_methods.ipynb)
+  - [Week 3 - TensorFlow Tutorial](https://github.com/OlaAbdallahM/Coursera-Deep-Learning-Specialization-Assignments-Solutions/blob/main/Course_2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week_3/Tensorflow_introduction.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 Objectives:  
